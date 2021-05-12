@@ -1,0 +1,71 @@
+/* * {
+    outline: 1px dotted red;
+} */
+
+header .logo-comunidad img {
+    width: 150px;
+}
+
+header .lista-menu li{
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+main .semilla {
+    background-image: url(../img/semilla.jpg);
+    height: 500px;
+}
+
+main .metodologia {
+    background-image: url(../img/fondo.jpg);
+}
+
+main .foto-proyecto1 {
+    background-image: url(../img/fotos/img-0352.JPG);
+    height: 500px;
+}
+main .foto-proyecto2 {
+    background-image: url(../img/fotos/img-9246.JPG);
+    height: 500px;
+}
+
+main .container-proyectos {
+    font-family: OpenSans-regular;
+}
+    main .container-proyectos h4, h5, h6{
+        font-weight: bold;
+    }
+
+main .container-equipo img{
+    width: 250px;    
+}
+main .container-equipo .equipo-sociales{
+    width: 40px;
+}
+
+main .container-blog {
+    background-image: url(../img/fondo2.jpg);
+}
+    main .container-blog .slider {
+        width: 50px;
+    }
+
+main .sociales {
+    height: 20rem;
+	font-family: OpenSans-Regular;
+}
+    main .sociales img {
+        width: 70px;
+    }
+
+footer {
+    height: 15rem;
+}
+
+.menu a {
+    color: rgb(164,163,161) ;
+}
